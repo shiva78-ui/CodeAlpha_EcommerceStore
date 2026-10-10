@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://codealpha-ecommercestore-25bt.onrender.com/api";
 
 
 // Load products when the page opens
