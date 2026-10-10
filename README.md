@@ -4,7 +4,7 @@ ShopEase is a full-stack e-commerce web application developed as part of my Code
 
 ## Live Demo
 
-- **Frontend:** [Add your Render frontend URL here]
+- **Frontend:** [https://shopease-frontend-bk08.onrender.com]
 - **Backend API:** https://codealpha-ecommercestore-25bt.onrender.com
 
 ## Features
@@ -150,3 +150,17 @@ The objective of this project is to gain practical experience in full-stack web 
 ## Author
 
 Developed as a CodeAlpha internship project.
+## Screenshots
+
+### 1. Homepage
+![ShopEase Homepage](screenshots/homepage.png)
+
+### 2. Shopping Cart
+![ShopEase Shopping Cart](screenshots/cart.png)
+
+### 3. Order History
+![ShopEase Order History](screenshots/orders.png)
+
+### 4. Login Page
+![ShopEase Login](screenshots/login.png)
+
