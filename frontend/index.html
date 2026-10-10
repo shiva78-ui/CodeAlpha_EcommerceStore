@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ShopEase - E-commerce Store</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="navbar">
+
+        <a href="index.html" class="logo">
+    Shop<span>Ease</span>
+</a>
+
+        <nav>
+            <a href="orders.html">Orders</a>
+    <a href="index.html">Home</a>
+    <a href="#products">Products</a>
+
+    <span id="user-section">
+        <a href="login.html">Login</a>
+    </span>
+
+    <a href="cart.html">
+    Cart 🛒
+    <span id="cart-count"></span>
+</a>
+</nav>
+
+    </header>
+
+
+    <main>
+
+                <section class="hero">
+
+            <div class="hero-content">
+
+                <span class="hero-badge">✦ New Arrivals</span>
+
+                <h1>
+                    Shop Smart.<br>
+                    <span>Shop Easy.</span>
+                </h1>
+
+                <p>
+                    Discover high-quality products at amazing prices.<br>
+                    Your one-stop store for tech, accessories and more.
+                </p>
+
+                <button onclick="scrollToProducts()">
+                    🛒 Shop Now &nbsp; →
+                </button>
+
+            </div>
+
+                        <div class="hero-image">
+                <img
+                    src="https://images.unsplash.com/photo-1498049794561-7780e7231661?w=1400"
+                    alt="Laptop, headphones and electronic accessories"
+                >
+            </div>
+
+        </section>
+
+
+        <section id="products" class="products-section">
+
+           <div class="products-heading">
+    <h2>Our Products</h2>
+    <p>Explore our collection of high-quality products</p>
+</div>
+
+            <div id="products-container" class="products-container">
+
+                <p>Loading products...</p>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+
+        <p>© 2026 ShopEase. All rights reserved.</p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
