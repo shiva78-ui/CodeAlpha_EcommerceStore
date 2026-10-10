@@ -153,7 +153,7 @@ Developed as a CodeAlpha internship project.
 ## Screenshots
 
 ### 1. Homepage
-![ShopEase Homepage](screenshots/homepage.png)
+![ShopEase Homepage](screenshots/Homepage.png)
 
 ### 2. Shopping Cart
 ![ShopEase Shopping Cart](screenshots/cart.png)
